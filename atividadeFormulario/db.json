@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "José",
+      "email": "jose@gmail.com",
+      "nascimento": "2022-01-01",
+      "cep": "58200-000"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "email": "maria@gmail.com",
+      "nascimento": "2022-01-02",
+      "cep": "58200-100"
+    },
+    {
+      "id": 3,
+      "nome": "João",
+      "email": "joao@gmail.com",
+      "nascimento": "2022-01-03",
+      "cep": "58200-200"
+    },
+    {
+      "nome": "Fabrício",
+      "email": "f@gmail.com",
+      "nascimento": "2022-12-26",
+      "cep": "58200-000",
+      "id": 4
+    },
+    {
+      "nome": "JWR",
+      "email": "jwr@gmail.com",
+      "nascimento": "2022-12-26",
+      "cep": "58200-000",
+      "id": 5
+    }
+  ]
+}
